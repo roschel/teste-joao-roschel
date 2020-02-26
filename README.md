@@ -48,3 +48,6 @@ All the new users and requests stocks are saved into Postgres:
 ![image](https://user-images.githubusercontent.com/52433168/75367832-a6d14b80-589f-11ea-8a5f-d32f9e614094.png)
 
 ![image](https://user-images.githubusercontent.com/52433168/75368050-ed26aa80-589f-11ea-8867-d3c4e3aac787.png)
+
+
+Enjoy it!
