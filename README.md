@@ -25,7 +25,7 @@ And then:
 npm start
 ```
 
-## GET INTO THE APPLICATON
+### GET INTO THE APPLICATON
 To access the application, open http://localhost:3000 to view it in the browser.
 It should look like this:
 ![image](https://user-images.githubusercontent.com/52433168/75366524-a2a42e80-589d-11ea-8fc2-c08c2883b4ee.png)
