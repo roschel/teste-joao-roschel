@@ -1,0 +1,8 @@
+Dentro do diretório backend:
+
+- Rodar os seguintes comandos:
+    source run.sh
+
+Dentro do diretório web:
+    npm install
+    npm start

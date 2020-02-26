@@ -1,0 +1,138 @@
+.mainStock{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.mainStockTitle{
+    text-align: center;
+}
+
+.mainStockContent{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.card-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.card{
+    display: flex;
+    border: 2px solid #c4c4c4;
+    width: 196px;
+    height: 100px;
+    margin: auto;
+    border-radius: 10px;
+    position: relative;
+}
+
+.mainStockContent .card .content{
+    font-size: 20px;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+
+
+.type p{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.type.current{
+    width: 30px;
+    background-color: blue;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.type.high{
+    width: 30px;
+    background-color: green;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.type.low{
+    width: 30px;
+    background-color: red;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+
+.stocksTable{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 100px;
+    width: 600px;
+    text-align: center;
+}
+
+
+.stocksTable table{
+    border-radius: 5px;
+}
+.stocksTable table, th, td{
+    border-spacing: 0;
+    border: 2px solid #c4c4c4;
+    text-align: center;
+}
+
+.stocksTable td{
+    width: 25%;
+}
+
+.stocksTable input{
+    border:0;
+    background-color: #fafafa ;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+#stockColumn{
+    background-color: #d8d8d8;
+    width: 120px;
+}
+
+.stocksTable .stockButton{
+    cursor: pointer;
+    font-size: 20px;
+    border: 0;
+    padding: 3px;
+    background-color: #d8d8d8;
+}
+
+.stocksTable .stockButton:hover{
+    background-color: #c4c4c4;
+}
+
+.stocksTable form{
+    display: flex;
+}
+
+.stocksTable .addRow {
+    margin: 10px 0 2px 2px;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #fafafa ;
+}
+
+.stocksTable .addRow:hover {
+    background-color: #d8d8d8;
+}
+
+.stocksTable .tip {
+    margin-top: 5px;
+    text-align: left;
+    font-size: 12px;
+}
