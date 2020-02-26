@@ -28,3 +28,13 @@ It should look like this:
 Now, click in **Register** to include a new user.
 You should see a page like this:
 ![image](https://user-images.githubusercontent.com/52433168/75367212-bb611400-589e-11ea-9d9f-4b69a268c308.png)
+
+That is it!
+After you logged in, you should see the stocks page, where it's monitoring online IBOVESPA'stocks
+![image](https://user-images.githubusercontent.com/52433168/75367451-1abf2400-589f-11ea-907f-bc94ffdb8f60.png)
+
+
+To change to another brazilian stock, you just have to include the name of the stock you want followed by ".SA"
+
+![image](https://user-images.githubusercontent.com/52433168/75367626-61ad1980-589f-11ea-8f42-630a180cfa24.png)
+
