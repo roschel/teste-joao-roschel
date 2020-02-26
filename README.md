@@ -6,7 +6,7 @@
 - React
 - Axios
 
-## INSTALLATION
+## :gear: INSTALLATION
 First, clone this repository to a local folder.
 
 Access the backend directory and run the follow script in your terminal:
